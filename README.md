@@ -1,0 +1,2 @@
+# pokedex
+With over 800 Pokemon in existence, it can be hard to keep track of all of them!  Your Pokedex is a simple app to view, filter, and look at statistics of any Pokemon you can dream of.  You can choose to look at all the Pokemon in either a grid or list view, view statistics like attack and defense for individual Pokemon, and even filter by characteristics.  Hundreds of Pokemon - all at your fingertips - what are YOU waiting for?
